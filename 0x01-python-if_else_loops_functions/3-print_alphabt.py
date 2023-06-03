@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-# My name is Francis Arop - 3-June-23
+
+# Author - Francis Arop - 3-June-23
+
+"""Print the alphabet in lowercase, not followed by a new line."""
+
 for letter in range(97, 123):
-        if chr(letter) != 'q' and chr(letter) != 'e':
-                    print("{}".format(chr(letter)), end="")
+        print("{}".format(chr(letter)), end="")
+
