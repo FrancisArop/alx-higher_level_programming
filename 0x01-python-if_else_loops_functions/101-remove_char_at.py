@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 # Author - Kuol Arop
 
 def remove_char_at(str, n):
