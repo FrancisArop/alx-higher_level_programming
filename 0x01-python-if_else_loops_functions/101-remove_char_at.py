@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Author - Yak Arop 
+# Author - Yak Arop
 
 def remove_char_at(str, n):
     """Create a copy of the string without the character at position n."""
