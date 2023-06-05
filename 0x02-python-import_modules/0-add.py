@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#Author - Yak Arop
+#Author - Yak Arop Magud
 
 if __name__ == "__main__":
     """Print the sum of 1 and 2."""
