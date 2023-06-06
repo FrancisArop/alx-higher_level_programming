@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Was written by Francis Arop
+
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""
     from calculator_1 import add, sub, mul, div 
